@@ -15,7 +15,7 @@ const Hero = (props) => (
       <SectionText>
         ReactJS Developer | Front-End Developer | Back-End Deveoper <br />
       </SectionText>
-      <Button onClick={() => window.location = 'mailto:mamtorahet@yahoo.com'}>Email</Button>
+      <Button onClick={() => window.location = 'mailto:personal@portfolio.com'}>Email</Button>
     </LeftSection>
   </Section>
 );
