@@ -12,9 +12,9 @@ const Hero = (props) => (
         My Personal Portfolio
       </SectionTitle>
       <SectionText>
-        Full Stacl Developer | ReactJS Developer | Front End Developer
+        ReactJS Developer | Front-End Developer | Back-End Developer
       </SectionText>
-      <Button onClick={() => window.location = 'mailto:mamtorahet@yahoo.com'}>Learn More</Button>
+      <Button onClick={() => window.location = 'mailto:mamtorahet@yahoo.com'}>Email</Button>
     </LeftSection>
   </Section>
 );
