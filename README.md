@@ -1,4 +1,4 @@
-# Modern Business Landing Page
+# My Personal Portfolio
 Built a Personal Portfolio Website using ReactJS, NextJS and Styles.<BR>
 Contains all the project cards and its deployment for easy access to my work.
 
