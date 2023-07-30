@@ -1,5 +1,5 @@
 import React from 'react';
-import {DiCss3, DiReact, DiCss3Full, DiHtml5, DiNodejs, DiPhp, DiMysql, DiMongodb, DiDatabase, DiHtml5Connectivity } from 'react-icons/di';
+import {DiCss3, DiReact, DiCss3Full, DiHtml5, DiNodejs, DiPhp, DiMysql, DiMongodb, DiDatabase, DiHtml5Connectivity, DiZend } from 'react-icons/di';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
 import { Div2 } from '../Header/HeaderStyles';
@@ -59,8 +59,18 @@ const Technologies = () =>  (
           <DiHtml5Connectivity size='3rem'/>
         </div>
         <ListContainer>
-          <ListTitle>Integrations</ListTitle>
-          <ListParagraph>Beginner experienc with <br /> RestAPI & Redux Toolkit</ListParagraph>
+          <ListTitle>API Testing</ListTitle>
+          <ListParagraph>Beginner experienc with <br /> RestAPI, Postman API Testing, Redux Toolkit</ListParagraph>
+        </ListContainer>
+      </ListItem>
+
+      <ListItem>
+        <div>
+          <DiZend size='3rem'/>
+        </div>
+        <ListContainer>
+          <ListTitle>UI/UX</ListTitle>
+          <ListParagraph>Experienced with <br /> Figma Design use for front-end development</ListParagraph>
         </ListContainer>
       </ListItem>
       
