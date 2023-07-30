@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'Personal Portfolio',
-    description: "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
+    description: "Using ReactJS, NextJS, Styles and CSS I have built an excellent looking personal portfolio web page displaying svg animation and project cards. This web page is responsive over different devices  and also demonstrated carousel for mobile devices. This project helped me to gain deeper insights over NextJS.",
       image: '/images/1.png',
       tags: ['ReactJS', 'NextJS', 'CSS', 'HTML', 'Styles'],
     source: 'https://github.com/HetMamtora/Personal-Portfolio',
@@ -10,7 +10,7 @@ export const projects = [
   },
   {
     title: 'Business Landing Page',
-    description:"While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
+    description:"Using ReactJS & TailwindCSS, built a modern business landing page of a bank as an example. TailwindCSS is used for high customization. Development environment was paired with VITE + React for the better development of the code. Web page is Responsive over different devices for better usage.",
     image: '/images/2.png',
     tags: ['ReactJS', 'TailwindCSS', 'HTML', 'UI/UX', 'VITE Environment'],
     source: 'https://github.com/HetMamtora/HooBank-App-ReactJS-TailwindCSS',
@@ -19,7 +19,7 @@ export const projects = [
   },
   {
     title: 'Modern Restaurant Landing Page',
-    description: "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
+    description: "Using ReactJS, CSS BEM Model, CSS, HTML and a ready Figma Design. I made this beautiful modern restaurant landing page demonstrating the usage of ReactJS and CSS Bem Model with responsiveness over different devices.",
       image: '/images/3.png',
       tags: ['ReactJS', 'CSS', 'CSS BEM Mode', 'HTML', 'UI/UX'],
     source: 'https://github.com/HetMamtora/ModernRestaurent-UI-UX',
@@ -28,7 +28,7 @@ export const projects = [
   },
   {
     title: 'What GPT3 UI/UX Page',
-    description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
+    description: "This modern page of WhatGPT-3 is demonstrating the use of ReactJS and CSS with all the file structure of React. This webpage is responsive over different devices with perfectly placed media queries and has been developed using a ready Figma Design.",
     image: '/images/4.png',
     tags: ['ReactJS', 'CSS', 'File Structure', 'HTML', 'UI/UX'],
     source: 'https://github.com/HetMamtora/WhatGPT3-ReactJS',
@@ -37,11 +37,11 @@ export const projects = [
   },
   {
     title: 'ECommerce - MERN Stack',
-    description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
+    description: "This project is developed using MongoDB, ExpressJS, ReactJS, and NodeJS with RestfulAPIs and Redux Toolkit. Also integrated with CDN for faster image loading and STRIPE API for faster and safer payment gateway. All of the APIs were tested using Postman for better validation. [Posted Only GIT REPO with images]",
     image: '/images/5.png',
     tags: ['MongoDB', 'ExpressJS', ' ReactJS', ' NodeJS'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    source: 'https://github.com/HetMamtora/ECommerce-MERNstack',
+    visit: 'https://github.com/HetMamtora/ECommerce-MERNstack',
     id: 4,
   },
 ];

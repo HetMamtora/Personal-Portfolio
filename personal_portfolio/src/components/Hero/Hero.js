@@ -13,7 +13,8 @@ const Hero = (props) => (
         My Personal Portfolio
       </SectionTitle>
       <SectionText>
-        A result driven and passionate ReactJS Developer. Also having an active hands-on experiences with Fron-End and Back-End Development using various technologies.
+        ReactJS Developer | Front-End Developer | Back-End Deveoper <br />
+        Recent graduate from Nirma University in May'23, majored in Computer Science Engineering.
       </SectionText>
       <Button onClick={() => window.location = 'mailto:mamtorahet@yahoo.com'}>Email</Button>
     </LeftSection>
