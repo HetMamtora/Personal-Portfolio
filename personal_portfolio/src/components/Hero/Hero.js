@@ -8,11 +8,12 @@ const Hero = (props) => (
   <Section row nopadding>
     <LeftSection>
       <SectionTitle main center>
+        HET MAMTORA <br /><br />
         Welcome To <br />
         My Personal Portfolio
       </SectionTitle>
       <SectionText>
-        ReactJS Developer | Front-End Developer | Back-End Developer
+        A result driven and passionate ReactJS Developer. Also having an active hands-on experiences with Fron-End and Back-End Development using various technologies.
       </SectionText>
       <Button onClick={() => window.location = 'mailto:mamtorahet@yahoo.com'}>Email</Button>
     </LeftSection>

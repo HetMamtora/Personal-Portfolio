@@ -1,7 +1,8 @@
 import React from 'react';
-import { DiFirebase, DiCss3, DiReact, DiZend, DiNodejs } from 'react-icons/di';
+import {DiCss3, DiReact, DiCss3Full, DiHtml5, DiNodejs, DiPhp, DiMysql, DiMongodb, DiDatabase, DiHtml5Connectivity } from 'react-icons/di';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
+import { Div2 } from '../Header/HeaderStyles';
 
 const Technologies = () =>  (
   <Section id='tech'>
@@ -9,31 +10,57 @@ const Technologies = () =>  (
     <br />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I've worked with range of a technologies  in the web development world.
+      I've worked with range of a technologies in the web development world.
       From Back-End to Front-End.
     </SectionText>
+    
     <List>
+      
       <ListItem>
-        <DiReact size='3rem'/> <DiCss3 size='3rem'/>
+        <div>
+          <DiReact size='3rem'/>
+          <DiCss3 size='3rem'/>
+          <DiCss3Full size='3rem'/>
+          <DiHtml5 size='3rem'/>
+        </div>
+        
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
-          <ListParagraph>Experienced with <br /> React.js</ListParagraph>
+          <ListParagraph>Experienced with <br /> React.js, CSS, TailwindCSS, HTML</ListParagraph>
         </ListContainer>
       </ListItem>
 
       <ListItem>
-        <DiFirebase size='3rem'/>
-        <ListContainer>
-          <ListTitle>UI/UX</ListTitle>
-          <ListParagraph>Experienced with <br /> Figma</ListParagraph>
-        </ListContainer>
-      </ListItem>
-
-      <ListItem>
-        <DiNodejs size='3rem'/>
+        <div>
+          <DiNodejs size='3rem'/>
+          <DiPhp size='3rem'/>
+        </div>
+        
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
+          <ListParagraph>Experienced with <br /> NodeJS, ExpressJS, PHP</ListParagraph>
+        </ListContainer>
+      </ListItem>
+
+      <ListItem>
+        <div>
+          <DiMongodb size='3rem'/>
+          <DiMysql size='3rem'/>
+          <DiDatabase size='3rem'/>
+        </div>
+        <ListContainer>
+          <ListTitle>Databases</ListTitle>
           <ListParagraph>Experienced with <br /> Node.js</ListParagraph>
+        </ListContainer>
+      </ListItem>
+
+      <ListItem>
+        <div>
+          <DiHtml5Connectivity size='3rem'/>
+        </div>
+        <ListContainer>
+          <ListTitle>Integrations</ListTitle>
+          <ListParagraph>Beginner experienc with <br /> RestAPI & Redux Toolkit</ListParagraph>
         </ListContainer>
       </ListItem>
       
