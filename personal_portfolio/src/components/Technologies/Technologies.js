@@ -70,7 +70,7 @@ const Technologies = () =>  (
         </div>
         <ListContainer>
           <ListTitle>UI/UX</ListTitle>
-          <ListParagraph>Experienced with <br /> Figma Design use for front-end development</ListParagraph>
+          <ListParagraph>Experienced with <br /> Figma Design use for front-end web development</ListParagraph>
         </ListContainer>
       </ListItem>
       
