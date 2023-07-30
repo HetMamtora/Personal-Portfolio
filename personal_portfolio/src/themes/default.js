@@ -1,5 +1,5 @@
 export default {
-  // Temp fonts
+  // Temp font
   fonts: {
     title: "Space Grotesk, sans-serif",
     main: "Space Grotesk, sans-serif"
