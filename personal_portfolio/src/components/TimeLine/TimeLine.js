@@ -45,7 +45,15 @@ const Timeline = () => {
   return (
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
-      <SectionText> A Front-End Developer</SectionText>
+      <SectionText> Results-driven Full Stack Developer & Software Engineer with a passion
+                    for creating innovative and user-friendly applications. Active in both
+                    front-end and back-end development, with hands on experience in JavaScript,
+                    HTML, CSS, and frameworks such as Node.js, Express.js, MongoDB, React.js
+                    and SQL. Better understanding of database management and beginner level
+                    API integration. Motivated towards problem-solving and ability to work
+                    collaboratively in agile environments. Seeking an internship or full-time
+                    position as a Full Stack Developer or Software Engineer to contribute to a dynamic team 
+                    and further enhance my skills in a professional setting.</SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
           {TimeLineData.map((item, index) => (

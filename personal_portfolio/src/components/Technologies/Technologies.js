@@ -50,7 +50,7 @@ const Technologies = () =>  (
         </div>
         <ListContainer>
           <ListTitle>Databases</ListTitle>
-          <ListParagraph>Experienced with <br /> Node.js</ListParagraph>
+          <ListParagraph>Experienced with <br /> MongoDB, SQL, phpMyAdmin</ListParagraph>
         </ListContainer>
       </ListItem>
 

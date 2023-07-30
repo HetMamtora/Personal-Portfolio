@@ -39,8 +39,8 @@ export const projects = [
 
 export const TimeLineData = [
   { year: 2016, text: 'Passed my 10th SSC Board with 64%.', },
-  { year: 2017, text: 'Started Journey with Diploma in Computer Engineering', },
-  { year: 2018, text: 'Founded JavaScript Mastery', },
-  { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },
+  { year: 2017, text: 'Took admit in Tolani Foundation Gandhidham Polytechnic for diploma in Computer Engineering.', },
+  { year: 2020, text: 'Passed my Diploma with 8.94/10 CGPA and got admitted into Nirma University', },
+  { year: 2023, text: "Graduated in May'23 from Nirma Universiry, majored in Computer Science Engineering with 7.03/10 CGPA.", },
+  { year: 2023, text: 'Since June developing projects to up bring and master my skills with web development.', },
 ];
