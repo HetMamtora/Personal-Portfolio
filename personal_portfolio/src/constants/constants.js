@@ -5,7 +5,7 @@ export const projects = [
       image: '/images/1.png',
       tags: ['ReactJS', 'NextJS', 'CSS', 'HTML', 'Styles'],
     source: 'https://github.com/HetMamtora/Personal-Portfolio',
-    visit: 'https://google.com',
+    visit: 'https://het-mamtora-portfolio.netlify.app/',
     id: 0,
   },
   {
