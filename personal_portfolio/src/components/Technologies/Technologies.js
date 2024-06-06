@@ -1,5 +1,7 @@
 import React from 'react';
 import {DiCss3, DiReact, DiCss3Full, DiHtml5, DiNodejs, DiPhp, DiMysql, DiMongodb, DiDatabase, DiHtml5Connectivity, DiZend } from 'react-icons/di';
+import { FaJava } from "react-icons/fa";
+import { SiTailwindcss, SiJavascript, SiHtml5, SiCss3 } from "react-icons/si";
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
 import { Div2 } from '../Header/HeaderStyles';
@@ -18,15 +20,18 @@ const Technologies = () =>  (
       
       <ListItem>
         <div>
-          <DiReact size='3rem'/>
-          <DiCss3 size='3rem'/>
-          <DiCss3Full size='3rem'/>
-          <DiHtml5 size='3rem'/>
+          <SiJavascript size='3rem'/>
+          <DiMysql size='3rem'/>
+          <DiMongodb size='3rem'/>
+          <FaJava size='3rem'/>
+          <SiHtml5 size='3rem'/>
+          <SiCss3 size='3rem'/>
+          <SiTailwindcss size='3rem'/>
         </div>
         
         <ListContainer>
-          <ListTitle>Front-End</ListTitle>
-          <ListParagraph>Experienced with <br /> React.js, CSS, TailwindCSS, HTML</ListParagraph>
+          <ListTitle>LANGUAGES</ListTitle>
+          <ListParagraph> JavaScript, SQL, NoSQL, Java, HTML/CSS, TailwindCSS</ListParagraph>
         </ListContainer>
       </ListItem>
 
@@ -37,15 +42,15 @@ const Technologies = () =>  (
         </div>
         
         <ListContainer>
-          <ListTitle>Back-End</ListTitle>
+          <ListTitle>FRAMEWORKS</ListTitle>
           <ListParagraph>Experienced with <br /> NodeJS, ExpressJS, PHP</ListParagraph>
         </ListContainer>
       </ListItem>
 
       <ListItem>
         <div>
-          <DiMongodb size='3rem'/>
-          <DiMysql size='3rem'/>
+          
+          
           <DiDatabase size='3rem'/>
         </div>
         <ListContainer>
