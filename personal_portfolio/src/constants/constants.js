@@ -47,9 +47,14 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2019, text: 'DUMMY CONTENT', },
-  { year: 2020, text: 'DUMMY CONTENT', },
-  { year: 2021, text: 'DUMMY CONTENT', },
-  { year: 2022, text: 'DUMMY CONTENT', },
-  { year: 2023, text: 'DUMMY CONTENT', },
+  { year: 2024, text: 'In between I joined some Freelance groups as helping hands to get insights about recent development in IT industries.', },
+  { year: 2024, text: 'Started with self paced projects in January  followed by 100 Days of Coding challenge to up skill myself at advance level in Full Stack Development', },
+  { year: 2023, text: 'In December, my internship was over after commencement of it for 4 months duration.', },
+  { year: 2023, text: 'In September, onboarded Cognizant, Chennai for my Internship in GenC Programmer Analyst', },
+  { year: 2023, text: 'June onwards, started developing and up skilling myself with React based projects.', },
+  { year: 2023, text: 'Graducted in May from Nirma University scoring 7.03/10 CGPA.', },
+  { year: 2020, text: 'Admitted in Nirma University for my Bachelors in Computer Science Engineering.', },
+  { year: 2020, text: 'Passed diploma in August scoring rank across district with 8.95/10 CGPA.', },
+  { year: 2017, text: 'Admitted in Diploma Computer Engineering at Tolani Foundation Gandhidham Polytechnic.', },
+  { year: 2016, text: 'Passed SSC Board of 10th.', },
 ];
