@@ -14,7 +14,7 @@ const Footer = () => {
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
-          <LinkItem href="mailto:mamtorahet@yahoo.com">
+          <LinkItem href="mailto:abc@yahoo.com">
             Personal Mail
           </LinkItem>
         </LinkColumn>
@@ -22,13 +22,17 @@ const Footer = () => {
       <SocialIconsContainer>
         <CompanyContainer>
           <Slogan>Innovating one project at a time</Slogan>
+          
+        </CompanyContainer>
+        <CompanyContainer>
+          <Slogan><span style={{color:"orange"}}>Made with <span style={{color:"red"}}>&#10084;</span> &#169; Het Mamtora</span></Slogan>
         </CompanyContainer>
         <SocialContainer>
           <SocialIcons href="https://github.com/HetMamtora">
             <AiFillGithub size="3rem" />
           </SocialIcons>
           <SocialIcons href="https://www.linkedin.com/in/het-mamtora/">
-            <AiFillLinkedin size="3rem" />
+            <span style={{color:"#0077B5"}}><AiFillLinkedin size="3rem" /> </span>
           </SocialIcons>
         </SocialContainer>
       </SocialIconsContainer>
