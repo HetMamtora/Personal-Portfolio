@@ -4,7 +4,7 @@ Contains all the project cards and its deployment for easy access to my work.
 
 If you are here and liked my work, I would really appreciate a Star from you. =)
 
-### [LIVE DEPLOYMENT](https://het-mamtora-portfolio.netlify.app/)
+### [LIVE DEPLOYMENT](https://hetmamtora-portfolio.vercel.app/)
 
 ![localhost_3000 - Brave 30-07-2023 18_35_59](https://github.com/HetMamtora/Personal-Portfolio/assets/104263376/fbf5692e-b4dc-4930-9c07-ab6d7a09f3ea)
 
